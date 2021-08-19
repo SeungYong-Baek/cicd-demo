@@ -4,6 +4,6 @@
 int main(void)
 {
         printf("Hello!\n");
-        printf("CICD-demo - Jenkins with GitHub #5 Slack notification.\n");
+        printf("CICD-demo - Jenkins with GitHub #1\n");
         exit(0);
 }
